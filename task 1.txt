@@ -1,0 +1,25 @@
+Diffrence between HTTP1.1 VS HTTP2
+HTTP stands for Hypertext transfer protocol and its used in Clinet server communication 
+
+* The first version of HTTP was called HTTP 1.1 and its was still use in the web 
+* In 2015 new version of HTTP was called HTTP 2 it solves several problems of the creaters of HTTP 1.1 did not processed 
+
+* HTTP 1.1 will not be able to process many task at the same time the resources are performed in an order that is one after the other,if one resource cannot be loaded it blocks all the other resource behind it.
+* HTTP 2 it uses a single TCP conncetion to mutli stream of data at once so no one resource block any other resources.
+
+*  While processeing data in HTTP 1.1 the data's are automatically compared by itself.
+* But in HTTP 2 it uses HPACK for compare data compression 
+
+* HTTP 1.1 works on textual formation 
+* HTTP 2 works on the binary protocol
+
+* HTTP 1 uses request resource Inlining for getting multiple pages 
+* HTTP 2 uses PUSH frame through the server it collects mutliple pages 
+
+
+
+
+
+  
+
+

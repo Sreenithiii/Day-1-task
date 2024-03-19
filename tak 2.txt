@@ -1,0 +1,19 @@
+Objects and its internal representation in Javascript
+
+
+ * Objects in Javascript It is one of the mos important data type and which help to form the Buliding blocks for 
+Modern Javascript.
+
+* Objects are more complex and each and every object contains many combination of premitive data types and aslo refrence data types
+
+* An Object is a refernce data type for each variable  a refrence value is assigned and refernce given are apointer to that value here 
+ther refrence are pointer points to the location in the memoery where the object is stored.
+
+* Javascript object always has properties a property of the object can be explained as a variable that is attched to the object. 
+
+* Here the properties of an object help us to define the characteristics.
+
+
+ 
+
+
